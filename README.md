@@ -12,5 +12,5 @@ Block diagram of the model:
 
 
 
-Methodolgy in a glance:
+Methodology in a glance:
 ![image](https://github.com/user-attachments/assets/2efb8215-b5e7-4971-9b58-9ad4ed1a12a5)
